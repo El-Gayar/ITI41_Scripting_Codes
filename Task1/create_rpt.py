@@ -5,10 +5,6 @@ import re
 
 path ="task_ws"
 
-rtl=0
-sdf=0
-scr=0
-other=0
 
 list_path=os.listdir("{0}/".format(path))
 
